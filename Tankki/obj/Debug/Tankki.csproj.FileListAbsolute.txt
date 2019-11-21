@@ -1,0 +1,5 @@
+C:\Users\ES\OneDrive - Epedu O365\oliot\Työ\Tankki\Tankki\bin\Debug\Tankki.exe
+C:\Users\ES\OneDrive - Epedu O365\oliot\Työ\Tankki\Tankki\bin\Debug\Tankki.pdb
+C:\Users\ES\OneDrive - Epedu O365\oliot\Työ\Tankki\Tankki\obj\Debug\Tankki.csprojAssemblyReference.cache
+C:\Users\ES\OneDrive - Epedu O365\oliot\Työ\Tankki\Tankki\obj\Debug\Tankki.exe
+C:\Users\ES\OneDrive - Epedu O365\oliot\Työ\Tankki\Tankki\obj\Debug\Tankki.pdb
